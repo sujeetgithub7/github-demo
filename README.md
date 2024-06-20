@@ -1,4 +1,4 @@
 # github-demo
 This is my first repo.
 <br>
-Author - Sujeet
+Author - Sujeet Gupta
