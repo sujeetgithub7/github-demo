@@ -1,4 +1,4 @@
 # github-demo
-This is my first repo.
+This is a repo.
 <br>
 Author - Sujeet Gupta
